@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-09-21T11:41:17.451212",
+    "expression": "144 ÷ 12",
+    "result": 12.0,
+    "operation": "/",
+    "operands": [
+      144,
+      12
+    ]
+  },
+  {
+    "timestamp": "2025-09-21T11:41:17.448937",
+    "expression": "25 + 37",
+    "result": 62.0,
+    "operation": "+",
+    "operands": [
+      25,
+      37
+    ]
+  }
+]
